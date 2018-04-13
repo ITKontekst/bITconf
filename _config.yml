@@ -10,27 +10,28 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Bydgoszcz IT Conference 2018"
+shortTitle: "bITconf2018"
+email: "kontakt@bitconf.pl"
+description: "Bydgoska, wielościeżkowa, cykliczna konferencja techniczna."
+baseurl: "/bITconf"
+url: "http://ITKontekst.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "ITKontekst.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "IT Kontekst"
+organizerAlternateName: "IT Kontekst Wojciech Oczkowski"
+organizerDescription: "Outsourcing, szkolenia, projekty IT"
+organizerEmail: "kontakt@bitconf.pl"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://itkontekst.pl/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, konferencja, Bydgoszcz, it, java, cloud, programowanie, aws, azzure, google, JUG, datacenter, meetup"
+twitterAccount: "@bITconf_pl"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
