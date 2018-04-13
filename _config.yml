@@ -57,10 +57,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Bydgoszcz IT Conference 2018 <typeout>"
+heroTitle: "bITconf 2018 - <typeout>"
 eventDate: "14 Września 2018"
-typeoutTextValues: '"", "Java", "Cloud"'
-typeoutFallback: ""
+typeoutTextValues: '"", "a bit of Java",  "", "a bit of Cloud", "", "a lot of Fun"'
+typeoutFallback: "Java and Cloud"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
