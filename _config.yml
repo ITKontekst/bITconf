@@ -57,73 +57,73 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Bydgoszcz IT Conference 2018 <typeout>"
+eventDate: "14 Września 2018"
+typeoutTextValues: '"", "Java", "Cloud"'
+typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "O Konferencji"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Java", image: "conference.jpg", text: "Ścieżka poświęcona programowaniu w języku Java" }
+ - {title: "Cloud", image: "workshop.jpg", text: "Ściezka poświęcona technologiom Cloud computing" }
+ - {title: "Networking", image: "hackathon.jpg", text: "Przestrzeń wymiany doświadczeń" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "+", info: "uczestników", detail: "z Bydgoszczy i nie tylko"}
+ - {count: "1", specialCharacter: "", info: "dzień", detail: "niezapomnianych wrażeń"}
+ - {count: "12", specialCharacter: "+", info: "prelegentów", detail: "z kraju i zagranicy"}
+ - {count: "2", specialCharacter: "", info: "równoległe ścieżki", detail: "oraz mnóstwo przestrzeni do wymiany doświadczeń"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Najnowsze wiadomości"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Najlepsi prelegenci"
+rockstarSpeakersButtonText: "Zobacz wszystkich"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+locationBlockTitle: "Miejsce konferencji"
+eventLocationName: "Hotel HolidayIn"
+eventLocationLink: "https://holiday.hgb.com.pl/"
+eventStreetAddress: "ul. Grodzka 36"
+eventAddressLocality: "Bydgoszcz"
+eventAddressLocalityRegion: "Bydgoszcz"
+eventPostalCode: "85-109"
+eventAddressCountry: "Polska"
+eventStartTime: "2018-09-14T09:00"
+eventDoorTime: "08:00"
+eventEndTime: "2018-09-14T17:00"
+eventPlaceCoordinates: "53.121307, 18.00578"
+mapCenterCoordinates: "53.121307, 18.00578"
+mapMobileCenterCoordinates: "53.121307, 18.00578"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Lokalizacja"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Hotel HolidayIn"
+venueFeatures: ["2 przestronne sale", "Wysokiej klasy sprzęt Video", "Swobodna przestrzeń networkingowa", "Lokalizacja w ścisłym centrum"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Najnowsze wiadomości"
+twitterHashTag: "bITconf_pl"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizatorzy"
+partnersTitle: "Sponsorzy"
+partnersC4sponsorsButton: "Zostań sponsorem"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -132,63 +132,63 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Ceny wejściówek"
+ticketsInfo: "Wejściówka uprawnia do uczestnictwa we wszystkich sesjach konferencji, lunchu oraz przerw kawowych"
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
+  price: "150"
+  priceCurrency: "PLN"
+  ticketsNumber: "100"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Kup teraz"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2018-05-01T00:00"
+  validThrough: "2018-05-31T23:59"
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
+  name: "Cena podstawowa"
+  price: "200"
+  priceCurrency: "PLN"
+  ticketsNumber: "50"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Kup teraz"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2018-06-01T00:00"
+  validThrough: "2018-06-30T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  name: "Last Minute"
+  price: "250"
+  priceCurrency: "PLN"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  buyButtonText: "Kup teraz"
+  additionalInfo: "Nie czekaj do końca liczba miejsc limitowana"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2018-07-01T00:00"
+  validThrough: "2018-09-13T23:59"
   soldOut: true
-  soldOutText: "Sold Out"
+  soldOutText: "Wyprzedane"
 
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=bITconf_pl", icon: "twitter"}
+ - {link: "https://facebook.com/BITconf", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://bydgoszcz.jug.pl", text: "bydgoscz.jug.pl"}
+   - {link: "https://www.meetup.com/Cloud-Datacenter-User-Group-Bydgoszcz/", text: "Cloud and Datacenter User Group Bydgoszcz"}
  -
-  title: "Contacts"
+  title: "Kontakt"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:kontakt@bitconf.pl", text: "kontakt@bitconf.pl"}
  -
   title: "FAQ"
   links:
@@ -196,7 +196,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
