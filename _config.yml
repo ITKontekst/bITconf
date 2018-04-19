@@ -146,7 +146,7 @@ ticketsOffers:
   validThrough: "2018-05-31T23:59"
  -
   name: "Cena podstawowa"
-  price: "200"
+  price: "199"
   priceCurrency: "PLN"
   ticketsNumber: "50"
   featured: true
@@ -158,7 +158,7 @@ ticketsOffers:
   disabled: false
  -
   name: "Last Minute"
-  price: "250"
+  price: "249"
   priceCurrency: "PLN"
   ticketsNumber: "50"
   ribbon: "+25%"
