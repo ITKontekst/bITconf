@@ -1,7 +1,7 @@
 - 
   group: "Organizatorzy"
   elements: 
-    - {name: "BydgoszczJUG", description: "BydgoszczJUG - Grupa pasjonatów języka Java z Bydgoszczy", link: "http://bydgoszcz.jug.pl", imageUrl: "gdg-lviv.svg"}
-    - {name: "C&DUG Bydgoszcz", description: "Cloud and Datacenter User Group Bydgoszcz", link: "https://www.meetup.com/Cloud-Datacenter-User-Group-Bydgoszcz/", imageUrl: "gdg-lviv.svg"}
-    - {name: "IT Kontekst", description: "IT Kontekst - Bydgoski dostawca usług outsourcingowych i szkoleniowych", link: "http://itkontekst.pl", imageUrl: "gdg-lviv.svg"}
-    - {name: "Symentis", description: "Symentis - Firma konsultingowo szkoleniowa", link: "http://symentis.pl", imageUrl: "gdg-lviv.svg"}
+    - {name: "BydgoszczJUG", description: "BydgoszczJUG - Grupa pasjonatów języka Java z Bydgoszczy", link: "http://bydgoszcz.jug.pl", imageUrl: "jug.png"}
+    - {name: "C&DUG Bydgoszcz", description: "Cloud and Datacenter User Group Bydgoszcz", link: "https://www.meetup.com/Cloud-Datacenter-User-Group-Bydgoszcz/", imageUrl: "jug.png"}
+    - {name: "IT Kontekst", description: "IT Kontekst - Bydgoski dostawca usług outsourcingowych i szkoleniowych", link: "http://itkontekst.pl", imageUrl: "jug.png"}
+    - {name: "Symentis", description: "Symentis - Firma konsultingowo szkoleniowa", link: "http://symentis.pl", imageUrl: "jug.png"}

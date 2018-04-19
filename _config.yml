@@ -135,40 +135,40 @@ ticketsInfo: "Wejściówka uprawnia do uczestnictwa we wszystkich sesjach konfer
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "150"
+  price: "149"
   priceCurrency: "PLN"
   ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ribbon: "-25%"
+  buyButtonLink: "https://konfeo.pl/"
   buyButtonText: "Kup teraz"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Java", "Cloud", "Networking"]
   validFrom: "2018-05-01T00:00"
   validThrough: "2018-05-31T23:59"
  -
   name: "Cena podstawowa"
-  price: "200"
+  price: "199"
   priceCurrency: "PLN"
   ticketsNumber: "50"
-  ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://konfeo.pl/"
   buyButtonText: "Kup teraz"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Java", "Cloud", "Networking"]
   validFrom: "2018-06-01T00:00"
   validThrough: "2018-06-30T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Last Minute"
-  price: "250"
+  price: "249"
   priceCurrency: "PLN"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ribbon: "+25%"
+  buyButtonLink: "https://konfeo.pl/"
   buyButtonText: "Kup teraz"
   additionalInfo: "Nie czekaj do końca liczba miejsc limitowana"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Java", "Cloud", "Networking"]
   validFrom: "2018-07-01T00:00"
-  validThrough: "2018-09-13T23:59"
-  soldOut: true
+  validThrough: "2018-09-10T23:59"
+  soldOut: false
   soldOutText: "Wyprzedane"
 
 # Footer
