@@ -25,6 +25,6 @@
     - {name: "?", description: "?", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
     - {name: "?", description: "?", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 - 
-  group: "Partner publiczny"
+  group: "Partner konferencji"
   elements: 
-    - {name: "BARR", description: "Bydgoska Agencja Rozwoju Regionalnego", link: "https://atos.com", imageUrl: "google.svg"}
+    - {name: "TBD", description: "TBD", link: "https://atos.com", imageUrl: "google.svg"}
