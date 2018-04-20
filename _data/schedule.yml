@@ -6,9 +6,24 @@
     - {title: "Cloud", color: "#03a9f4"}
   timeslots:
     - {
+    	startTime: "8:15",
+    	endTime: "9:00",
+    	sessionIds: [004]
+    }
+    - {
     	startTime: "9:00",
-    	endTime: "10:00",
+    	endTime: "9:15",
     	sessionIds: [001]
+    }
+    - {
+    	startTime: "9:15",
+    	endTime: "10:00",
+    	sessionIds: [100]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:30",
+    	sessionIds: [005]
     }
     - {
         startTime: "10:30",
@@ -16,9 +31,19 @@
         sessionIds: [102, 202]
     }
     - {
+    	startTime: "11:20",
+    	endTime: "11:30",
+    	sessionIds: [005]
+    }
+    - {
     	startTime: "11:30",
     	endTime: "12:20",
     	sessionIds: [103, 203]
+    }
+    - {
+    	startTime: "12:20",
+    	endTime: "12:30",
+    	sessionIds: [005]
     }
     - {
     	startTime: "12:30",
@@ -36,13 +61,28 @@
     	sessionIds: [105, 205]
     }
     - {
+    	startTime: "15:20",
+    	endTime: "15:30",
+    	sessionIds: [005]
+    }
+    - {
     	startTime: "15:30",
     	endTime: "16:20",
     	sessionIds: [106, 206]
     }
     - {
     	startTime: "16:20",
-    	endTime: "16:50",
+    	endTime: "16:30",
+    	sessionIds: [005]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:20",
+    	sessionIds: [106, 206]
+    }
+    - {
+    	startTime: "17:20",
+    	endTime: "17:30",
     	sessionIds: [003]
     }
 

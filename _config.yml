@@ -26,7 +26,7 @@ organizerName: "IT Kontekst"
 organizerAlternateName: "IT Kontekst Wojciech Oczkowski"
 organizerDescription: "Outsourcing, szkolenia, projekty IT"
 organizerEmail: "kontakt@bitconf.pl"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/itkontekst.jpg"
 organizerLink: "http://itkontekst.pl/"
 
 # Head
@@ -37,8 +37,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "#"
+c4sponsorsUrl: "mailto:kontakt@bitconf.pl"
 
 
 # Navigation
@@ -75,7 +75,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "uczestników", detail: "z Bydgoszczy i nie tylko"}
  - {count: "1", specialCharacter: "", info: "dzień", detail: "niezapomnianych wrażeń"}
- - {count: "12", specialCharacter: "+", info: "prelegentów", detail: "z kraju i zagranicy"}
+ - {count: "10", specialCharacter: "+", info: "prelegentów", detail: "z kraju i zagranicy"}
  - {count: "2", specialCharacter: "", info: "równoległe ścieżki", detail: "oraz mnóstwo przestrzeni do wymiany doświadczeń"}
 
 # Latest News Block
@@ -110,13 +110,13 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Hotel HolidayIn"
-venueFeatures: ["2 przestronne sale", "Wysokiej klasy sprzęt Video", "Swobodna przestrzeń networkingowa", "Lokalizacja w ścisłym centrum"]
+venueFeatures: ["2 przestronne sale konferencyjne", "Wysokiej klasy sprzęt Audio/Video", "Swobodna przestrzeń networkingowa" ]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Najnowsze wiadomości"
 twitterHashTag: "bITconf_pl"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "#"
 
 # Partners Block
 organizersTitle: "Organizatorzy"
@@ -126,12 +126,12 @@ partnersC4sponsorsButton: "Zostań sponsorem"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeAction: "#"
+subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Ceny wejściówek"
-ticketsInfo: "Wejściówka uprawnia do uczestnictwa we wszystkich sesjach konferencji, lunchu oraz przerw kawowych"
+ticketsInfo: "Wejściówka obejmuje uczestnictwo we wszystkich sesjach konferencji, lunch oraz przerwy kawowe"
 ticketsOffers:
  -
   name: "Early Bird"
@@ -155,7 +155,7 @@ ticketsOffers:
   ticketContentList: ["Java", "Cloud", "Networking"]
   validFrom: "2018-06-01T00:00"
   validThrough: "2018-06-30T23:59"
-  disabled: false
+  disabled: true
  -
   name: "Last Minute"
   price: "249"
@@ -168,6 +168,7 @@ ticketsOffers:
   ticketContentList: ["Java", "Cloud", "Networking"]
   validFrom: "2018-07-01T00:00"
   validThrough: "2018-09-10T23:59"
+  disabled: true
   soldOut: false
   soldOutText: "Wyprzedane"
 
@@ -203,7 +204,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Organizatorzy"
-aboutUs: "BydgoszczJUG, Cloud & Datacenter User Group Bydgoszcz, IT Kontekst, Symentis"
+aboutUs: ""
 
 # Logistics Find Way Block
 findWayTitle: "Jak do nas dotrzeć"
