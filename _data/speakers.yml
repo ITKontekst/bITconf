@@ -4,10 +4,10 @@
   surname: "TBD"
   company: "TBD"
   title: "TDB"
-  bio: '<p>TBD <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. TBD</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  bio: 'TBD'
+  thumbnailUrl: empty.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+bitconf"}
+    - {name: "twitter", link: "https://twitter.com/bitconf_pl"}
+    - {name: "github", link: "https://github.com/bitconf"}
