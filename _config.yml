@@ -181,7 +181,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://bydgoszcz.jug.pl", text: "bydgoscz.jug.pl"}
+   - {link: "http://bydgoszcz.jug.pl", text: "bydgoszcz.jug.pl"}
    - {link: "https://www.meetup.com/Cloud-Datacenter-User-Group-Bydgoszcz/", text: "Cloud and Datacenter User Group Bydgoszcz"}
    - {link: "http://itkontekst.pl", text: "IT Kontekst"}
    - {link: "http://symentis.pl", text: "Symentis"}
