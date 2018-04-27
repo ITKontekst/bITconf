@@ -11,3 +11,28 @@
     - {name: "google-plus", link: "https://plus.google.com/+bitconf"}
     - {name: "twitter", link: "https://twitter.com/bitconf_pl"}
     - {name: "github", link: "https://github.com/bitconf"}
+- 
+  id: 2
+  name: "Marcin"
+  surname: "Grzejszczak"
+  company: "Pivotal"
+  title: "Staff Software Engineer"
+  bio: 'Author of "Mockito Instant" and "Mockito Cookbook" books. Co-author of Applied Continuous Delivery Live Lessons. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal'
+  thumbnailUrl: marcin_grzejeszczak.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.linkedin.com/in/marcin-grzejszczak-15565119/"}
+    - {name: "twitter", link: "https://twitter.com/MGrzejszczak"}
+    - {name: "github", link: "https://github.com/marcingrzejszczak"}
+- 
+  id: 3
+  name: "Tomasz"
+  surname: "Stachlewski"
+  company: "Amazon Web Services"
+  title: " Starszy architekt systemów chmurowych"
+  bio: 'Na co dzień doradza klientom w tworzeniu architektur systemów, które mają zostać zmigrowane lub utworzone w chmurze AWS i w pełni wykorzystywać możliwości jakie niesie ze sobą chmura. Doradza wielu wiodącym firmom (począwszy od startupów po korporacje) z różnych branż tj. IT, telekomunikacja, finanse i inne. Prowadzi szkolenia dla polskich i zagranicznych partnerów podczas których przekazuje w jaki sposób firmy powinny korzystać z chmury, jak powinna wyglądać ich droga z tradycyjnej infrastruktury do infrastruktury chmurowej, aby zmaksymalizować korzyści z tego płynące'
+  thumbnailUrl: tomasz_stachlewski.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.linkedin.com/in/tstachlewski/"}
+    - {name: "github", link: "https://github.com/tstachlewski/"}
