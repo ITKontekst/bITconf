@@ -46,14 +46,12 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 102
-  title: "TBD"
-  description: "TBD"
+  title: "Sztuczna Inteligencja i Serverless –  czyli jak budować nowoczesne aplikację w świecie chmury 2.0"
+  description: "Podczas tej sesji przekonamy się czy niecała godzina wystarczy, aby utworzyć od zera niebanalną chmurową aplikację. Aplikacje, która będzie w pełni skalowalna, będzie wysokiej dostępności, będzie składała się z niezależnych mikrousług, nierelacyjnej bazy danych, będzie wykorzystała takie elementy Sztucznej Inteligencji jak konwersja tekstu na mowę, analiza obrazów i z którą na końcu będziemy w stanie porozumieć się za pomocą głosu. A wszystko to z pomocą usług Serverless!"
   subtype: wykład
-  speakers: [1]
+  speakers: [3]
   language: pl
-  complexity: "średniozawansowany"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "podstawowy"
 -
   id: 103
   title: "TBD"
