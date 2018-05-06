@@ -36,18 +36,16 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 101
-  title: "TBD"
-  description: "TBD"
+  title: "Testing Your Message-Driven Application"
+  description: "So you end up with messaging and event-driven architecture. You also have heard about event sourcing and applied this principle in a few places in your code. Everything seems to be working perfectly, you are about to perform the first release and you’ve decided to change the structure of one event. The event you have changed was both used for state reconstruction (event sourcing) and integration (event-driven architecture). Due to that change, out of a sudden, your acceptance environment stopped working… “How come?! I have only changed an implementation detail in my cool event-sourced domain!” said the senior developer. In this talk, we will chat about how to work with events that are used as integration messages in your system. We will tackle content-negotiation, versioning and acceptance tests. There will be a lot of Spring Cloud stack and we will see how we can benefit from Consumer Driven Contracts when NOT using REST APIs."
   subtype: wykład
-  speakers: [1]
-  language: pl
-  complexity: "średniozawansowany"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [2,4]
+  language: en
+  complexity: "zawansowany"
 -
   id: 102
-  title: "Sztuczna Inteligencja i Serverless –  czyli jak budować nowoczesne aplikację w świecie chmury 2.0"
-  description: "Podczas tej sesji przekonamy się czy niecała godzina wystarczy, aby utworzyć od zera niebanalną chmurową aplikację. Aplikacje, która będzie w pełni skalowalna, będzie wysokiej dostępności, będzie składała się z niezależnych mikrousług, nierelacyjnej bazy danych, będzie wykorzystała takie elementy Sztucznej Inteligencji jak konwersja tekstu na mowę, analiza obrazów i z którą na końcu będziemy w stanie porozumieć się za pomocą głosu. A wszystko to z pomocą usług Serverless!"
+  title: "Sztuczna Inteligencja i Serverless –  czyli jak budować nowoczesne aplikacje w świecie chmury 2.0"
+  description: "Podczas tej sesji przekonamy się czy niecała godzina wystarczy, aby utworzyć od zera niebanalną chmurową aplikację. Aplikację, która będzie w pełni skalowalna, będzie wysokiej dostępności, będzie składała się z niezależnych mikrousług, nierelacyjnej bazy danych, będzie wykorzystywała takie elementy Sztucznej Inteligencji jak konwersja tekstu na mowę, analiza obrazów i z którą na końcu będziemy w stanie porozumieć się za pomocą głosu. A wszystko to z pomocą usług Serverless!"
   subtype: wykład
   speakers: [3]
   language: pl

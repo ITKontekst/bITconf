@@ -29,10 +29,24 @@
   name: "Tomasz"
   surname: "Stachlewski"
   company: "Amazon Web Services"
-  title: " Starszy architekt systemów chmurowych"
+  title: "Starszy architekt systemów chmurowych"
   bio: 'Na co dzień doradza klientom w tworzeniu architektur systemów, które mają zostać zmigrowane lub utworzone w chmurze AWS i w pełni wykorzystywać możliwości jakie niesie ze sobą chmura. Doradza wielu wiodącym firmom (począwszy od startupów po korporacje) z różnych branż tj. IT, telekomunikacja, finanse i inne. Prowadzi szkolenia dla polskich i zagranicznych partnerów podczas których przekazuje w jaki sposób firmy powinny korzystać z chmury, jak powinna wyglądać ich droga z tradycyjnej infrastruktury do infrastruktury chmurowej, aby zmaksymalizować korzyści z tego płynące'
   thumbnailUrl: tomasz_stachlewski.jpg
   rockstar: true
   social: 
     - {name: "site", link: "https://www.linkedin.com/in/tstachlewski/"}
     - {name: "github", link: "https://github.com/tstachlewski/"}
+- 
+  id: 4
+  name: "Jakub"
+  surname: "Pilimon"
+  company: "Pivotal"
+  title: "Principal Technologist"
+  bio: 'Jakub is Spring Developer Advocate at Pivotal, blogger, passionate programmer and trainer. He loves to tackle complex enterprises with Domain Driven Design, Test Driven Development and Spring. Being a microservice freak, architecture is his main area of interest too. When he does not program he rides motorbike, skis or grows his beard. Also, here is his DZone MVB awarded blog: pillopl.github.io'
+  thumbnailUrl: jakub_pilimon.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://pillopl.github.io"}
+    - {name: "site", link: "https://www.linkedin.com/in/jakub-pilimon-449b7984/"}
+    - {name: "twitter", link: "https://twitter.com/JakubPilimon"}
+    - {name: "github", link: "https://pillopl.github.io"}
