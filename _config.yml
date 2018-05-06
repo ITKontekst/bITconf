@@ -44,15 +44,13 @@ c4sponsorsUrl: "mailto:kontakt@bitconf.pl"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Strona Główna"}
- - {permalink: "/blog/", text: "O Konferencji"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Prelegenci"}
  - {permalink: "/team/", text: "Organizatorzy"}
- - {permalink: "/logistics/", text: "Logistyka"}
 bottomNavigationLinks:
- - {link: "https://www.konfeo.com/", text: "Kup bilet"}
+ - {link: "https://bitconf2018.konfeo.com/pl/groups", text: "Kup bilet"}
 rightNavigationButtons:
- - {link: "https://www.konfeo.com/", text: "Kup bilet"}
+ - {link: "https://bitconf2018.konfeo.com/pl/groups", text: "Kup bilet"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -139,7 +137,7 @@ ticketsOffers:
   priceCurrency: "PLN"
   ticketsNumber: "100"
   ribbon: "-25%"
-  buyButtonLink: "https://konfeo.pl/"
+  buyButtonLink: "https://bitconf2018.konfeo.com/pl/groups"
   buyButtonText: "Kup teraz"
   ticketContentList: ["Java", "Cloud", "Networking"]
   validFrom: "2018-05-01T00:00"
@@ -150,7 +148,7 @@ ticketsOffers:
   priceCurrency: "PLN"
   ticketsNumber: "50"
   featured: true
-  buyButtonLink: "https://konfeo.pl/"
+  buyButtonLink: "https://bitconf2018.konfeo.com/pl/groups"
   buyButtonText: "Kup teraz"
   ticketContentList: ["Java", "Cloud", "Networking"]
   validFrom: "2018-06-01T00:00"
@@ -162,7 +160,7 @@ ticketsOffers:
   priceCurrency: "PLN"
   ticketsNumber: "50"
   ribbon: "+25%"
-  buyButtonLink: "https://konfeo.pl/"
+  buyButtonLink: "https://bitconf2018.konfeo.com/pl/groups"
   buyButtonText: "Kup teraz"
   additionalInfo: "Nie czekaj do końca liczba miejsc limitowana"
   ticketContentList: ["Java", "Cloud", "Networking"]
@@ -189,10 +187,6 @@ footerBlocks:
   title: "Kontakt"
   links:
    - {link: "mailto:kontakt@bitconf.pl", text: "kontakt@bitconf.pl"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Najnowsze informacje"
