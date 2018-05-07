@@ -43,10 +43,10 @@
   company: "Pivotal"
   title: "Principal Technologist"
   bio: 'Jakub is Spring Developer Advocate at Pivotal, blogger, passionate programmer and trainer. He loves to tackle complex enterprises with Domain Driven Design, Test Driven Development and Spring. Being a microservice freak, architecture is his main area of interest too. When he does not program he rides motorbike, skis or grows his beard. Also, here is his DZone MVB awarded blog: pillopl.github.io'
-  thumbnailUrl: jakub_pilimon.jpg
+  thumbnailUrl: jakub_pilimon.png
   rockstar: true
   social: 
     - {name: "site", link: "https://pillopl.github.io"}
     - {name: "site", link: "https://www.linkedin.com/in/jakub-pilimon-449b7984/"}
     - {name: "twitter", link: "https://twitter.com/JakubPilimon"}
-    - {name: "github", link: "https://pillopl.github.io"}
+    - {name: "github", link: "https://github.com/pillopl"}
