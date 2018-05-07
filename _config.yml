@@ -44,6 +44,7 @@ c4sponsorsUrl: "mailto:kontakt@bitconf.pl"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Strona Główna"}
+ - {permalink: "/blog/", text: "O Konferencji"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Prelegenci"}
  - {permalink: "/team/", text: "Organizatorzy"}
@@ -62,7 +63,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Kup bilet"}
 
 # About Block
-aboutTitle: "O Konferencji"
+aboutTitle: "Tematyka"
 aboutBlock:
  - {title: "Java", image: "conference.jpg", text: "Ścieżka poświęcona programowaniu w języku Java" }
  - {title: "Cloud", image: "workshop.jpg", text: "Ściezka poświęcona technologiom Cloud computing" }
